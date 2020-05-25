@@ -1,2 +1,2 @@
 # API
-contains API for DL
+contains Pytorch API for Deep Learning.
